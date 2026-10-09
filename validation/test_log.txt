@@ -1,0 +1,29 @@
+test_real_verilog_against_scheduler_transactions (test_rtl_optional.DirectRTLTest.test_real_verilog_against_scheduler_transactions) ... skipped 'Icarus Verilog no esta instalado'
+test_300000_variables_both_assignments_and_last_id (test_suite.EvaluationTests.test_300000_variables_both_assignments_and_last_id) ... ok
+test_3sat_packing_uses_every_variable (test_suite.EvaluationTests.test_3sat_packing_uses_every_variable) ... ok
+test_empty_formula_and_empty_clause (test_suite.EvaluationTests.test_empty_formula_and_empty_clause) ... ok
+test_invalid_forward_refs_b_limit_and_oversized_blocks (test_suite.EvaluationTests.test_invalid_forward_refs_b_limit_and_oversized_blocks) ... ok
+test_random_cnfs_against_independent_evaluator (test_suite.EvaluationTests.test_random_cnfs_against_independent_evaluator) ... ok
+test_reject_bad_backend_data (test_suite.EvaluationTests.test_reject_bad_backend_data) ... ok
+test_truth_tables_and_spills (test_suite.EvaluationTests.test_truth_tables_and_spills) ... ok
+test_assignment_roundtrip_and_missing_conflicting_values (test_suite.ParserTests.test_assignment_roundtrip_and_missing_conflicting_values) ... ok
+test_multiline_and_multiple_clauses_per_line (test_suite.ParserTests.test_multiline_and_multiple_clauses_per_line) ... ok
+test_reject_malformed (test_suite.ParserTests.test_reject_malformed) ... ok
+test_block_before_init_and_invalid_block_are_errors (test_suite.ProtocolTests.test_block_before_init_and_invalid_block_are_errors) ... ok
+test_done_bit_corruption_is_not_a_boolean_result (test_suite.ProtocolTests.test_done_bit_corruption_is_not_a_boolean_result) ... ok
+test_exactly_one_write_per_gate_and_no_target_writes (test_suite.ProtocolTests.test_exactly_one_write_per_gate_and_no_target_writes) ... ok
+test_full_roundtrip_through_actual_board_controller (test_suite.ProtocolTests.test_full_roundtrip_through_actual_board_controller) ... ok
+test_oversized_frame_is_rejected (test_suite.ProtocolTests.test_oversized_frame_is_rejected) ... ok
+test_profile_mismatch (test_suite.ProtocolTests.test_profile_mismatch) ... ok
+test_timeout_never_becomes_zero_or_unsat (test_suite.ProtocolTests.test_timeout_never_becomes_zero_or_unsat) ... ok
+test_brute_sat_and_unsat (test_suite.SolverAndCliTests.test_brute_sat_and_unsat) ... ok
+test_evaluate_false_is_not_unsat_and_has_distinct_exit_code (test_suite.SolverAndCliTests.test_evaluate_false_is_not_unsat_and_has_distinct_exit_code) ... ok
+test_native_solver_api_budget_unknown_and_model_validation (test_suite.SolverAndCliTests.test_native_solver_api_budget_unknown_and_model_validation) ... ok
+test_reference_verilog_matches_recorded_identity (test_suite.SolverAndCliTests.test_reference_verilog_matches_recorded_identity) ... ok
+test_solve_sat_produces_verified_assignment_and_report (test_suite.SolverAndCliTests.test_solve_sat_produces_verified_assignment_and_report) ... ok
+test_unknown_cli_exit_is_distinct_and_does_not_write_model (test_suite.SolverAndCliTests.test_unknown_cli_exit_is_distinct_and_does_not_write_model) ... ok
+
+----------------------------------------------------------------------
+Ran 24 tests in 2.941s
+
+OK (skipped=1)

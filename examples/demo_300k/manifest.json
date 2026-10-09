@@ -1,0 +1,7 @@
+{
+  "variables": 300000,
+  "clauses": 100000,
+  "kind": "3sat",
+  "seed": 42,
+  "purpose": "functional-example-with-known-satisfying-assignment"
+}

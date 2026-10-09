@@ -1,0 +1,23 @@
+{
+  "python": "3.12.14",
+  "tests_run": 24,
+  "tests_passed": 23,
+  "failures": 0,
+  "errors": 0,
+  "skipped": [
+    {
+      "test": "test_real_verilog_against_scheduler_transactions (test_rtl_optional.DirectRTLTest.test_real_verilog_against_scheduler_transactions)",
+      "reason": "Icarus Verilog no esta instalado"
+    }
+  ],
+  "coverage": [
+    "functional-RTL model",
+    "actual JSON protocol/client and board controller with SDK double",
+    "300000-variable long clause under two assignments",
+    "300000-variable 100000-clause known-model CNF",
+    "23 software tests including solver API control-flow double"
+  ],
+  "physical_asic_tested": false,
+  "native_pysat_tested": false,
+  "hdl_simulation_performed": false
+}

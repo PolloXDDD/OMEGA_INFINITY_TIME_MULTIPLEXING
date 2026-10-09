@@ -1,0 +1,25 @@
+{
+  "profile": "omega16-constant52-v1",
+  "top_module": "tt_um_omega_infinity_kaoru",
+  "source_archive": "ttihp-CRYPTOGRAPHY-DESTROYER-OMEGA-INFINITY-main (4)(2).zip",
+  "source": "rtl_reference/project.v",
+  "source_sha256": "b815050fb74f10303e2e248b1793c5013485d3e2ce7974e42787c0a4f4145dae",
+  "programmable_gates": 16,
+  "base_nodes": 8,
+  "base_bits_lsb_first": [
+    0,
+    1,
+    0,
+    0,
+    1,
+    0,
+    1,
+    0
+  ],
+  "raw_grid_wire_taps": "10101101",
+  "quantized_taps": "01010010",
+  "configuration_a_bits": 5,
+  "configuration_b_bits": 4,
+  "runtime_board_validation": "reads all 8 base nodes and compares 0x52; tests opcodes and window transfer",
+  "physical_validation_performed": false
+}

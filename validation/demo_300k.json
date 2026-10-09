@@ -1,0 +1,14 @@
+{
+  "mode": "evaluation",
+  "backend": "sim-functional-rtl",
+  "status": "ASSIGNMENT_SATISFIES",
+  "assignment_satisfies_formula": true,
+  "variables": 300000,
+  "clauses": 100000,
+  "literals": 300000,
+  "blocks": 25000,
+  "gates_written": 400000,
+  "outputs_read": 118750,
+  "elapsed_seconds": 1.039608,
+  "cross_checked": true
+}
